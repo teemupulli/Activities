@@ -4,8 +4,17 @@
 
 - [Use of AI in the course](AI.md)
 - [Questions-Bank]
+- [Grading](./garding.md)
 
-----
+### Optional Attendance
+
+- **Friday 03.11.2023** 09.00 - 16.00 (Week 2)
+- **Friday 10.11.2023** 09.00 - 16.00 (Week 3)
+- **Friday 24.11.2023** 09.00 - 16.00 (Week 5)
+- **Friday 01.12.2023** 09.00 - 16.00 (Week 6)
+- **Friday 08.12.2023** 09.00 - 16.00 (Week 7)
+
+### Lecture Material
 
 - [Week 1: Lecture notes and activities]
 - [Week 2: Lecture notes and activities]
