@@ -8,14 +8,14 @@
 
 ### Criteria 
 
-**Web Development Course Grading:**
+**Web Development Course:**
 
 - In-Class Activities: 25% of the total course grade.
 - Individual Homework: 25% of the total course grade.
 - Feedback: 5% of the total course grade.
 - Exam: 45% of the total course grade.
 
-**Project Course Grading:**
+**Project Course:**
 
 - In-Class Activities: 35% of the total course grade.
 - Reflection Journal: 15% of the total course grade.

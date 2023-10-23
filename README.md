@@ -4,7 +4,7 @@
 
 - [Use of AI in the course](AI.md)
 - [Questions-Bank]
-- [Grading](./garding.md)
+- [Grading](./grading.md)
 
 ### Optional Attendance
 
