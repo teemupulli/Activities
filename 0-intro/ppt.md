@@ -5,6 +5,78 @@
 - [Questions-Bank]
 - [Todo](./todo.md)
 
+----
+### Course Objective
+
+- Prepare for the workforce
+- Local and global perspectives
+- Emphasis on industry competitiveness
+- Develop self-motivated, lifelong learners
+- Thrive in individual and team-based settings
+- Adapt to multicultural environments
+
+
+### Industry's Global Demand
+
+- Web development knows no borders
+- Companies receive applications worldwide
+- Competence on a global stage
+
+
+### Course Structure
+
+#### 1. Flipped Classroom Approach
+
+- Self-paced learning
+- Cover extensive topics
+- Two-month duration
+
+#### 2. Diverse Range of Activities
+
+- Guided and self-directed
+- Ensures student participation
+
+#### 3. Two-Phase Course Structure
+
+- 2-week effort and normalization
+- 6-week competence demonstration
+
+#### 4. Catering to Different Learning Styles
+
+- Pre-class and post-class materials
+- Leveraging online resources
+
+#### 5. Real-World Simulations
+
+- Agile project management
+- Pair programming
+- Emulating authentic scenarios
+
+#### 6. Reflection Journals
+
+- Encourage self-reflection
+- Recognize strengths and weaknesses
+
+#### 7. Break Times
+
+- Regulatory compliance
+- Balanced 20-minute breaks
+
+#### 8. In-Campus Classes
+
+- Practical challenges
+- Optional in-campus sessions
+
+### Transition to Industry 5.0
+
+- Industry shift from 4.0 to 5.0
+- Changes in education and teaching role
+- Emphasis on productivity and adaptability
+- Integration of AI for productivity boost
+
+
+---
+
 ### Schedule
 
 - Each week
