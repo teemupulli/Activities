@@ -1,4 +1,4 @@
-# To Do
+# Homework
 
 ### Before Wednesday's class (25/10/23)
 
@@ -16,27 +16,24 @@
 
 Review the following video tutorials:
 
-- [Introduction to Scrum - 7 Minutes]
-- [NPM Crash Course](https://youtu.be/jHDhaSSKmB0)
 - [Node.js Tutorial for Beginners: (**First 40min only**)](https://youtu.be/TlB_eWDSMt4)
-- [Git & GitHub Tutorial for Beginners]
+- [NPM Crash Course](https://youtu.be/jHDhaSSKmB0)
+- [Introduction to Scrum - 7 Minutes]
+- Git & Github
+  - [Part 1: Git (Duration **36 min**)](https://www.youtube.com/watch?v=hrTQipWp6co)
+  - [Part 2: GitHub (Duration **56 min**)](https://www.youtube.com/watch?v=1ibmWyt8hfw)
 
-### Before Next Tuesday's class (31/10/23)
 
-Review the following video tutorials:
 
-- [React Tutorial for Beginners (till 20min)](https://youtu.be/SqcY0GlETPk)
-- [Scrum in 20 mins] - **with Figma files**
-- [Figma UI Design Tutorial: Get Started in Just 24 Minutes]
 
 ### Refresher
 
 Here are some recommended resources:
 
+- [HTML & CSS & VsCode - Course (Duration **6 hours**)](https://www.youtube.com/watch?v=G3e-cpL7ofc)
+- [JavaScript Course  (Duration **12 hours**)](https://www.youtube.com/watch?v=SBmSRK3feww)
 - [Modern JavaScript From The Beginning (12 Hours)]
-- [Arrow Functions JavaScript Tutorial - What NOT to do!!!](https://youtu.be/ajTvmGxWQF8)
 - [Modern JavaScript Tutorial]
-
 
 
 

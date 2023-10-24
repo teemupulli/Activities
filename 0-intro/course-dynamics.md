@@ -1,11 +1,5 @@
 # Introduction
 
-- [WHY?]
-- [Use of AI in the course: copilot / ChatGPT]
-- [Questions-Bank]
-- [Todo](./todo.md)
-
-----
 ### Course Objective
 
 - Prepare for the workforce
@@ -15,15 +9,9 @@
 - Thrive in individual and team-based settings
 - Adapt to multicultural environments
 
+----
 
-### Industry's Global Demand
-
-- Web development knows no borders
-- Companies receive applications worldwide
-- Competence on a global stage
-
-
-### Course Structure
+### Course Dynamics
 
 #### 1. Flipped Classroom Approach
 
@@ -67,14 +55,6 @@
 - Practical challenges
 - Optional in-campus sessions
 
-### Transition to Industry 5.0
-
-- Industry shift from 4.0 to 5.0
-- Changes in education and teaching role
-- Emphasis on productivity and adaptability
-- Integration of AI for productivity boost
-
-
 ---
 
 ### Schedule
@@ -90,13 +70,14 @@
   - **Friday 01.12.2023** 09.00 - 16.00 (Week 6)
   - **Friday 08.12.2023** 09.00 - 16.00 (Week 7)
 
-### 
+### Important Dates
 
 - Presentations: Project Course
   - 14.12.2023 09.00 - 16.00
 - Exam: Web Development TX00EY23-3002 
   - Time 15.12.2023 09.00 - 12.00
   - Room MPA5026
+  - [Questions-Bank]
 
 ### Grading
 
@@ -114,6 +95,7 @@
   - Reflection Journal (15%)
   - Feedback (5%)
   - Group Project (45%)
+
 
 
 
