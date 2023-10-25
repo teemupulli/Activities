@@ -29,5 +29,5 @@
 - Introduction to Scrum Methodology
 
 ## Submission Deadline
-
-The due date for submitting the activities for this week is **October 29th, at 23:59**. 
+> For this week, your only task is to write a reflection journal. Make sure to format it using Markdown.
+> The due date for submitting the activities for this week is **October 29th, at 23:59**. 
