@@ -34,6 +34,7 @@
 
 - [Scrum in 20 mins] - **with Figma files**
 - [Figma UI Design Tutorial: Get Started in Just 24 Minutes]
+- [How To Use TRELLO for Beginners: (14 min)]
 
 
 ### Thursday morning: 2/11/23
@@ -72,3 +73,4 @@
 [Express JS Crash Course: (first 16 min only)]:https://youtu.be/L72fhGm1tfE
 [How To Use TRELLO for Beginners: (14 min)]:https://youtu.be/6drUzoeHZkg
 [How To Use Postman (8min)]:https://youtu.be/wmz1sGZp814
+[How To Use TRELLO for Beginners: (14 min)]:https://youtu.be/6drUzoeHZkg

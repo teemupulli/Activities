@@ -4,11 +4,6 @@
 
 To gain a practical understanding of Scrum principles by reverse engineering a website and applying Scrum concepts to prototype development.
 
-### Prerequisite:
-- Scrum:
-  - https://youtu.be/9TycLR0TqFA
-  - https://youtu.be/SWDhGSZNF9M
-- Figma: https://youtu.be/FTFaQWZBqQ8
 
 ### Instructions:
 
@@ -64,6 +59,7 @@ To gain a practical understanding of Scrum principles by reverse engineering a w
 Your understanding of Scrum principles will be assessed through participation, prototype quality, comprehension of Scrum concepts, and presentation skills.
 
 ### Recap
+
 This lab activity provides you with a hands-on experience to understand Scrum in action. Work together, apply what you've learned, and be ready to share your insights during the presentation next week.
 
 Finally, remember that this lab activity serves as a starting point for your upcoming project. It's designed to give you a head start.
