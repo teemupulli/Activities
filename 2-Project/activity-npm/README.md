@@ -119,6 +119,11 @@ node_modules/
 
 This prevents the `node_modules` directory from being included in version control systems like Git.
 
+> Note that global packages in Node.js are those that are installed globally on your system and can be used across different projects.
+> To install a global package, open your terminal and use the following command, replacing `<package-name>` with the name of the global package you want to install. For example, let's install a global package called `create-react-app` as an example:
+   ```bash
+   npm install -g <package-name>
+   ```
 
 ### Part 2: Local Git Repository
 
