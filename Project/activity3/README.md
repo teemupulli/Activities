@@ -45,3 +45,5 @@ npm run dev
 
 10. **Verify the Dog was Added**: To ensure the dog was successfully added, you can make a GET request to retrieve all dogs from your API. Use a GET request to the appropriate endpoint, such as `http://localhost:4000/dogs` if that's where your dogs are stored.
 
+
+
