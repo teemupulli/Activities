@@ -35,9 +35,7 @@
 | As an admin, I need the ability to customize the website's appearance, including banners, colors, and layout, to align with branding and marketing strategies. | 31. Customize the website's appearance, including banners, colors, and layout. |
 | As a user, I want to be able to create a new account using my email address and a secure password, so that I can access the website's features and services. | 32. Create user registration with email and secure password. |
 | As a user, I need the option to log in to my existing account using my registered email and password, ensuring a secure and personalized experience. | 33. Design a user-friendly login process with email and password authentication. |
-| As a user, I want to
-
- receive a confirmation email after registering, containing a verification link to activate my account. | 34. Send a confirmation email with a verification link for new user registrations. |
+| As a user, I want to receive a confirmation email after registering, containing a verification link to activate my account. | 34. Send a confirmation email with a verification link for new user registrations. |
 | As a user, I want the option to reset my password if I forget it, by receiving a password reset link via email. | 35. Provide a password reset option via email link for users who forget their password. |
 | As a user, I expect a smooth and intuitive login process with error messages displayed clearly if there are any issues with my credentials. | 36. Implement a smooth and intuitive login process with clear error messages. |
 | As a seller, I want to be able to create a seller account and provide necessary information such as contact details and payment preferences. | 37. Create a seller registration system with the option to provide contact details and payment preferences. |

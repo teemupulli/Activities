@@ -1,26 +1,21 @@
 # Homework
 
-> Homework for next week, will be available by Thursday
+> Homework for week 3, will be available by Thursday
 
 ### Tuesday morning: 2023-11-07
-- ?
-<!-- 
-- [Learn React 18 – Full Tutorial for Beginners]
-  - **From start till 2h 22min**
-  - Timeline:
-    - 00:00 - Setup
-    - 29:43 - Folder Structure
-    - 42:08 - First Component
-    - 52:35 - Extensions and settings.json
-    - 01:05:19 - JSX
-    - 01:19:21 - Nest Components
-    - 01:25:45 - Booklist
-    - 01:36:07 - CSS
-    - 01:46:41 - Images
-    - 01:54:41 - JSX - CSS
-    - 02:01:27 - JSX - Javascript
-    - 02:07:54 - Props
-    - 02:17:43 - Props - Somewhat Dynamic Setup -->
+
+- Pre-lecture
+  - React
+    - [Styles]
+    - [List Rendering]
+    - [Lists and Keys]
+    - [The React Router - V5]
+    - In class we will discuss React Router V6
+  - JavaScript:
+    - [map()]
+    - [Spread Operator]
+    - [Destructuring (object)]
+- Review of React Basics: [Learn React 18 – Full Tutorial for Beginners] **From start till 2h 22min**
 
 
 
@@ -44,3 +39,11 @@
 
 <!-- Links -->
 [Learn React 18 – Full Tutorial for Beginners]:https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ
+[map()]:https://youtu.be/80KX6aD9R7M
+[Spread Operator]:https://youtu.be/4Zyr5a3m0Fc
+[How To Use Postman (8min)]:https://youtu.be/wmz1sGZp814
+[Styles]:https://youtu.be/NbTrGcz4DW8
+[List Rendering]:https://youtu.be/5s8Ol9uw-yM
+[Lists and Keys]:https://youtu.be/0sasRxl35_8
+[Destructuring (object)]:https://youtu.be/i4vhNKihfto
+[The React Router - V5]:https://youtu.be/aZGzwEjZrXc

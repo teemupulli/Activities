@@ -60,7 +60,7 @@
 - [Conditionally Returning JSX in a React Project](./react-basics/part2/react-basics5-conditional.md)
 
 ---
-### Summary
+### Summary & Extra Reading
 
 - [Summary](./key-points.md)
 - Extra Reading
