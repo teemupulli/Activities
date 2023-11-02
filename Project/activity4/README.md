@@ -3,6 +3,7 @@
 In this activity, we will accomplish the following tasks:
 
 **Basic Server**
+
 Create an Express API server that listens on port 3001 and implements five endpoints:
    - `POST /pets` to add a new pet.
    - `GET /pets` to retrieve the list of pets.
@@ -22,7 +23,7 @@ When a user adds a new pet, they will provide the following information in JSON 
    }
    ```
 
-Unique IDs should be automatically generated and assigned to each pet when they are saved in the array of pets.
+`Unique IDs should be automatically generated` and assigned to each pet when they are saved in the array of pets.
 
 **Middleware**
 
