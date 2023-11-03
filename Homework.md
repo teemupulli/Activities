@@ -1,21 +1,19 @@
 # Homework
 
-> Homework for week 3, will be available later today
+<!-- > Homework for week 3, will be available later today -->
 
 ### Tuesday morning: 2023-11-07
 
-- Pre-lecture
-  - React
-    - [Styles]
-    - [List Rendering]
-    - [Lists and Keys]
-    - [The React Router - V5]
-    - In class we will discuss React Router V6
-  - JavaScript:
-    - [map()]
-    - [Spread Operator]
-    - [Destructuring (object)]
-
+- React
+  - [Styles]
+  - [List Rendering]
+  - [Lists and Keys]
+  - [The React Router - V5]
+  - In class we will discuss `React Router V6`
+- JavaScript:
+  - [map()]
+  - [Spread Operator]
+  - [Destructuring (object)]
 
 ### Tuesday afternoon: 2023-11-07
 
