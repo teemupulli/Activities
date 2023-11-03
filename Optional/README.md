@@ -1,6 +1,6 @@
 # Optional Sessions
 
-Friday sessions serve as review sessions where we won't introduce new material. However, if you have any questions about topics or activities that are unclear, it's recommended to ask attend these sessions.
+Friday sessions serve as review sessions where we won't introduce new material. However, if you have any questions about topics or activities that are unclear, it's recommended to attend these sessions.
 
 ### Friday Morning: 2023-11-03 - 9:00 AM to 12:00 PM
 
