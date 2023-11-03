@@ -30,6 +30,7 @@ Friday sessions serve as review sessions where we won't introduce new material. 
 - Reading
   - [A Complete Guide to Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
   - [CSS Flexbox](https://www.w3schools.com/csS/css3_flexbox.asp)
+  - [Flexbox: mdn]: https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox
 - Tools
   - [React dev tools]
   - Extension: [ES7+ React/Redux/React]

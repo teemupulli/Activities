@@ -15,27 +15,30 @@
     - [map()]
     - [Spread Operator]
     - [Destructuring (object)]
-- Review of React Basics: [Learn React 18 – Full Tutorial for Beginners] **From start till 2h 22min**
-
 
 
 ### Tuesday afternoon: 2023-11-07
 
-- ?
+- Review of React Basics: [Learn React 18 – Full Tutorial for Beginners] **From start till 2h 22min**
+- [Outputting Lists (6min)](https://youtu.be/tHjxSVaj_wY)
+- [Props(6min) (9 min)](https://youtu.be/PHaECbrKgs0)
+- [Reusing Components (3 min)](https://youtu.be/-YpnB-zlkPU)
+- [Functions as Props (4 min)](https://youtu.be/CWEOYFzgOJs)
+- [React Dev Tools (4 min)](https://youtu.be/rb1GWqCJid4)
 
 
-### Thursday morning: 2023-11-09
+### Thursday morning/afternoon: 2023-11-09
 
-- ?
+- [JavaScript: Filter and Find (15 min)](https://youtu.be/KeYxsev737s)
+- [Express JS Crash Course: 58min](https://youtu.be/L72fhGm1tfE)
 
-
-### Thursday afternoon: 2023-11-09
-
-- ?
 
 ### Refresher
 
 - [HTML/CSS](https://internetingishard.netlify.app/html-and-css/)
+
+
+
 
 <!-- Links -->
 [Learn React 18 – Full Tutorial for Beginners]:https://youtu.be/Flbw5BX_AX0?si=Pch8zLMRoSJwQzTQ
