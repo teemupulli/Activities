@@ -27,7 +27,7 @@ Friday sessions serve as review sessions where we won't introduce new material. 
 - [Postman: practice]((../Project/activity4/README.md))
 - Tools
   - [Postman]
-  - [The Postman VS Code extension (Beat)]
+  - Extension:[Postman VS Code extension (Beta)]
 
 <!-- Links -->
 
@@ -39,5 +39,5 @@ Friday sessions serve as review sessions where we won't introduce new material. 
 [Component: BoxColor]:https://github.com/ironhack-labs/lab-react-training#iteration-4--component-boxcolor
 [React dev tools]:https://react.dev/learn/react-developer-tools
 [ES7+ React/Redux/React]:https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
-[The Postman VS Code extension (Beat)]:https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
+[Postman VS Code extension (Beta)]:https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
 [Postman]:https://www.postman.com/
