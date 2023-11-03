@@ -4,11 +4,37 @@ Friday sessions serve as review sessions where we won't introduce new material. 
 
 ### Friday Morning: 2023-11-03 - 9:00 AM to 12:00 PM
 
-- React practice
-- [Recommended video](https://www.youtube.com/watch?v=3YW65K6LcIA)
-<!-- Flexbox: Recap, practice -->
+- CSS Refresher
+  - [Flexbox](https://internetingishard.netlify.app/html-and-css/flexbox/)
+  - [Responsive Design](https://internetingishard.netlify.app/html-and-css/responsive-design/)
+  - [The Box Model](https://internetingishard.netlify.app/html-and-css/css-box-model/)
+  - [CSS resets](https://necolas.github.io/normalize.css/)
+  - CSS Unit Guide: [em, rem, vh, vw](https://www.freecodecamp.org/news/css-unit-guide/)
+  - [Video: Flexbox Crash Course 2022 ](https://www.youtube.com/watch?v=3YW65K6LcIA)
+- [React practice](../Project/activity2/README.md)
+  - [Component: IdCard]
+  - [Component: Greetings]
+  - [Component: Random]
+  - [Component: CreditCard]
+  - [Component: BoxColor]
+  - [React dev tools]
+  - Extension: [ES7+ React/Redux/React]
+
 
 ### Friday Afternoon: 2023-11-03 - 2:00 PM to 5:00 PM
 
-- API server practice
-- Postman: practice
+- [API server practice](../Project/activity4/README.md)
+- [Postman: practice]((../Project/activity4/README.md))
+- [The Postman VS Code extension (Beat)]
+
+<!-- Links -->
+
+[ironhack-labs]:https://github.com/ironhack-labs/lab-react-training
+[Component: IdCard]:https://github.com/ironhack-labs/lab-react-training#iteration-1--component-idcard
+[Component: Greetings]:https://github.com/ironhack-labs/lab-react-training#iteration-2--component-greetings
+[Component: Random]:https://github.com/ironhack-labs/lab-react-training#iteration-3--component-random
+[Component: CreditCard]:https://github.com/ironhack-labs/lab-react-training#iteration-5--component-creditcard
+[Component: BoxColor]:https://github.com/ironhack-labs/lab-react-training#iteration-4--component-boxcolor
+[React dev tools]:https://react.dev/learn/react-developer-tools
+[ES7+ React/Redux/React]:https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+[The Postman VS Code extension (Beat)]:https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode

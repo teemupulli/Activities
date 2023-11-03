@@ -1,6 +1,6 @@
 # Homework
 
-> Homework for week 3, will be available by Thursday
+> Homework for week 3, will be available later today
 
 ### Tuesday morning: 2023-11-07
 
