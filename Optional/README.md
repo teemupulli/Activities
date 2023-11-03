@@ -17,15 +17,17 @@ Friday sessions serve as review sessions where we won't introduce new material. 
   - [Component: Random]
   - [Component: CreditCard]
   - [Component: BoxColor]
+- Tools
   - [React dev tools]
   - Extension: [ES7+ React/Redux/React]
-
 
 ### Friday Afternoon: 2023-11-03 - 2:00 PM to 5:00 PM
 
 - [API server practice](../Project/activity4/README.md)
 - [Postman: practice]((../Project/activity4/README.md))
-- [The Postman VS Code extension (Beat)]
+- Tools
+  - [Postman]
+  - [The Postman VS Code extension (Beat)]
 
 <!-- Links -->
 
@@ -38,3 +40,4 @@ Friday sessions serve as review sessions where we won't introduce new material. 
 [React dev tools]:https://react.dev/learn/react-developer-tools
 [ES7+ React/Redux/React]:https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
 [The Postman VS Code extension (Beat)]:https://marketplace.visualstudio.com/items?itemName=Postman.postman-for-vscode
+[Postman]:https://www.postman.com/
