@@ -1,8 +1,8 @@
-# Front End
+# FrontEnd
 
-<!-- ### Notes related to Reflection Journals
-
-- -
+<!-- 
+### Notes related to Reflection Journals
+-->
 
 ### Topics
 
@@ -14,7 +14,8 @@
   - Styles
   - List Rendering
   - Lists and Keys
-  - The React Router - V6
+  - Passing props to components
+  <!-- - The React Router - V6 -->
 
 ### Tentative Timeline
 
@@ -31,23 +32,22 @@
 - Spread Operator
   - [Rest vs Spread Operator]
 - Object Destructuring
-> Array Destructuring **next week**
+  - Array Destructuring **next week**
 
 ### React
 
+- Passing props to components
 - Styling: 
   - Demo 1: Inline
   - Demo 3: External CSS
   - Demo 2: [CSS Modules](https://upmostly.com/tutorials/what-are-css-modules-in-react) 
 - List Rendering: Demo 8, 9, 10: from last week
 
-### [Activity 1]
+### Activity 1
 
-- Es6
-- React Styling
-  - Inline, 
-  - External CSS
-  - [CSS Modules](https://upmostly.com/tutorials/what-are-css-modules-in-react) 
+- Es6: map(),Spread Operator, Object Destructuring
+- React Styling: Inline, External CSS, CSS Modules 
+- [Activity](./activity1/README.md)
 
 ---
 
@@ -58,25 +58,30 @@
 - Lists and Keys: Demo 6, 7
 
 
-### [Activity 2]
+### Activity 2
 
 - Lists and Keys
+- [Activity](./activity2/README.mdmd)
 
-> [Dot Notation vs Bracket Notation for Object Properties](https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/)
 
 ---
-### Reading Material
+###  Summary
 
-- W3Schools:
-   - [map()--]
-   - [Destructuring--]
-   - [Spread Operator--]
-   - [React Lists--]
-   - [Styling React Using CSS--]
-   - [React Router--]
-- Official Documentation:
-  - [Rendering Lists--]
-  - [Using “double curlies”: CSS and other objects in JSX--]
+-  Summary
+- Reading Material
+  - W3Schools:
+    - [map()--]
+    - [Destructuring--]
+    - [Spread Operator--]
+    - [React Lists--]
+    - [Styling React Using CSS--]
+    - [React Router--]
+  - Official Documentation:
+    - [Rendering Lists--]
+    - [Using “double curlies”: CSS and other objects in JSX--]
+  - [CSS Modules](https://upmostly.com/tutorials/what-are-css-modules-in-react) 
+  - [Dot Notation vs Bracket Notation for Object Properties](https://www.freecodecamp.org/news/dot-notation-vs-square-brackets-javascript/)
+
 
 ### Other Links used during the lecture
 
@@ -84,7 +89,7 @@
 - [Spread Operator-]
 - [Object Destructuring-]
 - [Array destructuring-]
- -->
+
 
 
 
@@ -98,8 +103,6 @@
 [Lists and Keys]:https://youtu.be/0sasRxl35_8
 [Destructuring (object)]:https://youtu.be/i4vhNKihfto
 [The React Router - V5]:https://youtu.be/aZGzwEjZrXc
-[Activity 1]:https://github.com/tx00-web/labs/tree/main/fe-react-styles
-[Activity 2]:https://github.com/tx00-web/labs/tree/main/fe-react-lists
 [map()-]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map
 [Spread Operator-]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax
 [Object Destructuring-]:https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring_assignment#object_destructuring
